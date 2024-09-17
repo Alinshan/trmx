@@ -7,7 +7,7 @@ Termux custom script for zshrc , bashrc and welcome page
 ```
 pkg install git
 git clone https://github.com/Alinshan/trmx
-cd termux3.0 
+cd trmx 
 chmod +x install.sh 
 ./install.sh
 ```
